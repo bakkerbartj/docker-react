@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> I was changes!
+          Edit <code>src/App.js</code> I was changed on the feature branch!
         </p>
         <a
           className="App-link"
@@ -19,9 +19,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <p className={"App-intro"}>
-        Hi there!
-      </p>
     </div>
   );
 }
